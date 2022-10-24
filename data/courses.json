@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": "4.5",
+    "total_student": 488,
+    "title": "English Spoken",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/8jpHrpj/english-speaking.jpg",
+    "details": "English is the language of business as well. No matter which country you visit, knowing English can make your journey better. It is because at least a few people in any country know English. In this article, you will get all the details about the English speaking course like its duration, fee structure, admission procedure, career prospect, etc."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "01",
+    "rating": "4.8",
+    "total_student": 200,
+    "title": "English Writing",
+    "author": {
+      "name": "John Doe",
+      "published_date": "2022-03-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/Wyvg8Pr/english-writing.png",
+    "details": "This course introduces students of literature and writing to the discipline of English. The course includes an overview of British and American literary history from Old English to hypertext; a study of the elements of literature and practice in close textual analysis with some introduction to critical theory; and seminar-style discussions of current topics in lit­erature (canon studies, multiculturalism, popular culture, etc.)"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "rating": "4.2",
+    "total_student": 170,
+    "title": "English Listening",
+    "author": {
+      "name": "Alison",
+      "published_date": "2022-05-24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/LZsk3dq/english-lestening.jpg",
+    "details": "Listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work.)"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": "4.4",
+    "total_student": 245,
+    "title": "Spanish Listening",
+    "author": {
+      "name": "Karim",
+      "published_date": "2022-05-10",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/MnNz0nD/spanish-listening.jpg",
+    "details": "When we talk about listening skills in relation to language learning, we mean the ability to understand what we hear in Spanish. The very best way to improve your understanding of Spanish is to listen to as much Spanish as you can until your brain registers the information correctly and you understand what you hear. Therefore, the overall aim of good listening practice is to reach an improved level of comprehension with each session."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": "4.4",
+    "total_student": 245,
+    "title": "Spanish Writing",
+    "author": {
+      "name": "Rahim",
+      "published_date": "2022-01-10",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/DMpvPFJ/spanish-writing.jpg",
+    "details": "Take your command of Spanish to the next level with this practical course. Brush up on those tricky past tenses, object pronouns and the subjunctive while learning to compose a well-written narrative. A Spanish-writing expert will give you personalized feedback on five writing assignments."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "rating": "4.4",
+    "total_student": 245,
+    "title": "Spanish Spoken",
+    "author": {
+      "name": "Rahim",
+      "published_date": "2022-01-10",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ibb.co/bPtKvr5/spanish-speaking.jpg",
+    "details": "This course is mainly focused on Spanish language speaking wherein you are given a complete road map of the topics according to each topic of the grammar. Using the particular structure of grammar we need to speak on a defined topic with 100% accuracy and speeding up your fluency level. Around 25-30 spoken topics are covered in the whole course plus you have story telling activities in full speed of Spanish language which will help you develop your listening skills too. Telephonic interviews are also conducted during the calls which will help you build your telephonic Spanish speaking skills. It will also help you a lot to prepare yourself for telephonic interviews. Present, Future & Past all three tenses are practised with the use of subjunctives also so that you can utilise your grammar whatever you have studied in your previous levels of the language."
+  }
+]
