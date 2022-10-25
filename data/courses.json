@@ -3,6 +3,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
     "rating": "4.5",
+    "price": "149",
     "total_student": 488,
     "title": "English Spoken",
     "author": {
@@ -17,12 +18,13 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "01",
     "rating": "4.8",
+    "price": "199",
     "total_student": 200,
     "title": "English Writing",
     "author": {
       "name": "John Doe",
       "published_date": "2022-03-24",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://i.ibb.co/dBBqjX3/autor-01.jpg"
     },
     "image_url": "https://i.ibb.co/Wyvg8Pr/english-writing.png",
     "details": "This course introduces students of literature and writing to the discipline of English. The course includes an overview of British and American literary history from Old English to hypertext; a study of the elements of literature and practice in close textual analysis with some introduction to critical theory; and seminar-style discussions of current topics in lit­erature (canon studies, multiculturalism, popular culture, etc.)"
@@ -31,12 +33,13 @@
     "_id": "f69a695f037cd9484cecaea37ca71011",
     "category_id": "01",
     "rating": "4.2",
+    "price": "249",
     "total_student": 170,
     "title": "English Listening",
     "author": {
       "name": "Alison",
       "published_date": "2022-05-24",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://i.ibb.co/SwWV1s1/autor-02.jpg"
     },
     "image_url": "https://i.ibb.co/LZsk3dq/english-lestening.jpg",
     "details": "Listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work.)"
@@ -45,42 +48,225 @@
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "category_id": "02",
     "rating": "4.4",
+    "price": "299",
     "total_student": 245,
     "title": "Spanish Listening",
     "author": {
       "name": "Karim",
       "published_date": "2022-05-10",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://i.ibb.co/kGz3mtc/autor-03.webp"
     },
     "image_url": "https://i.ibb.co/MnNz0nD/spanish-listening.jpg",
     "details": "When we talk about listening skills in relation to language learning, we mean the ability to understand what we hear in Spanish. The very best way to improve your understanding of Spanish is to listen to as much Spanish as you can until your brain registers the information correctly and you understand what you hear. Therefore, the overall aim of good listening practice is to reach an improved level of comprehension with each session."
   },
   {
-    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "_id": "f69a695f037cd9484cecaea37ca71013",
     "category_id": "02",
     "rating": "4.4",
+    "price": "149",
     "total_student": 245,
     "title": "Spanish Writing",
     "author": {
       "name": "Rahim",
       "published_date": "2022-01-10",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://i.ibb.co/RCj9bDr/autor-04.webp"
     },
     "image_url": "https://i.ibb.co/DMpvPFJ/spanish-writing.jpg",
     "details": "Take your command of Spanish to the next level with this practical course. Brush up on those tricky past tenses, object pronouns and the subjunctive while learning to compose a well-written narrative. A Spanish-writing expert will give you personalized feedback on five writing assignments."
   },
   {
-    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "_id": "f69a695f037cd9484cecaea37ca71014",
     "category_id": "02",
     "rating": "4.4",
+    "price": "199",
     "total_student": 245,
     "title": "Spanish Spoken",
     "author": {
       "name": "Rahim",
       "published_date": "2022-01-10",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      "img": "https://i.ibb.co/Z13sd1k/autor-05.jpg"
     },
     "image_url": "https://i.ibb.co/bPtKvr5/spanish-speaking.jpg",
     "details": "This course is mainly focused on Spanish language speaking wherein you are given a complete road map of the topics according to each topic of the grammar. Using the particular structure of grammar we need to speak on a defined topic with 100% accuracy and speeding up your fluency level. Around 25-30 spoken topics are covered in the whole course plus you have story telling activities in full speed of Spanish language which will help you develop your listening skills too. Telephonic interviews are also conducted during the calls which will help you build your telephonic Spanish speaking skills. It will also help you a lot to prepare yourself for telephonic interviews. Present, Future & Past all three tenses are practised with the use of subjunctives also so that you can utilise your grammar whatever you have studied in your previous levels of the language."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71015",
+    "category_id": "03",
+    "rating": "4.5",
+    "price": "149",
+    "total_student": 300,
+    "title": "French Spoken",
+    "author": {
+      "name": "Naeem",
+      "published_date": "2022-05-13",
+      "img": "https://i.ibb.co/mSF9sJF/autor-06.jpg"
+    },
+    "image_url": "https://i.ibb.co/GPDfVPH/french-spoken.jpg",
+    "details": "This conversational french class focuses on learning the language and speaking the language, rather than learning the grammar. After all, the goal of learning a language is to be able to speak right? That's why, this course will have you speaking French from the very first lesson."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71016",
+    "category_id": "03",
+    "rating": "4.9",
+    "price": "249",
+    "total_student": 100,
+    "title": "French Writing",
+    "author": {
+      "name": "Dipto",
+      "published_date": "2022-02-13",
+      "img": "https://i.ibb.co/MBrfw4v/autor-07.jpg"
+    },
+    "image_url": "https://i.ibb.co/t4Hv7Sh/french-writing.jpg",
+    "details": "The goal of this course is to improve students written expression and reading comprehension so that they can better communicate in various contexts in the French language. To that end, students will acquire different tools that will enable them to identify and grasp specific information from written documents with the ultimate goal of ameliorating their own written production. The sessions that focus on written expression and reading comprehension will be based on documents and activities that push the students to acquire reflexes for improved learning of the French language and of its specificities in written form."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71017",
+    "category_id": "03",
+    "rating": "4.0",
+    "price": "299",
+    "total_student": 250,
+    "title": "French Listening",
+    "author": {
+      "name": "Salman",
+      "published_date": "2022-07-13",
+      "img": "https://i.ibb.co/tQSLgsJ/autor-08.jpg"
+    },
+    "image_url": "https://i.ibb.co/ccVHjXk/french-listening.png",
+    "details": "Did I mention that using audio to learn is simple and painless? Instead of slaving over grammar exercises and dictionaries, you can learn while you listen casually. Or, when you’re ready for some active listening practice, follow along with the comprehension exercises or supplemental materials that most of these audio lessons include."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71018",
+    "category_id": "04",
+    "rating": "4.2",
+    "price": "149",
+    "total_student": 150,
+    "title": "Italian Listening",
+    "author": {
+      "name": "Kaium",
+      "published_date": "2022-01-21",
+      "img": "https://i.ibb.co/3ccw5S2/autor-09.jpg"
+    },
+    "image_url": "https://i.ibb.co/KG5G256/italian-listening.jpg",
+    "details": "This is my new podcast series, designed for advanced beginners and intermediate Italian learners. It’s a series of short and sweet audio clips at two speeds: natural and slow. The topics cover interesting and quirky Italian facts and curiosities. It’s a podcast series designed to help nonfluent Italian students enhance their active listening and boost their Italian vocabulary skills. Each podcast episode comes with a transcript and a vocabulary sheet. And it’s made with the love and care of a passionate Italian coach."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71019",
+    "category_id": "04",
+    "rating": "4.5",
+    "price": "299",
+    "total_student": 170,
+    "title": "Italian Writing",
+    "author": {
+      "name": "Robiul",
+      "published_date": "2022-02-20",
+      "img": "https://i.ibb.co/wJvs9nC/autor-10.jpg"
+    },
+    "image_url": "https://i.ibb.co/qBCJ4dc/italian-writing.jpg",
+    "details": "Italian 250 aims to improve written proficiency in Italian through an in-depth study of complex syntactic structures and extensive vocabulary building. Taught in Italian, this course focuses on writing and revising. Students will have the opportunity to practice and refine their writing skills by analyzing and discussing in class a varied selection of texts that are drawn from a diverse range of genres (literary texts by contemporary writers such as Sciascia, Buzzati, Baricco; newspaper articles; reviews; and analytical essays). After studying their formal and stylistic features as well as their specific ways of structuring the argument, students are asked to write and revise a minimum of seven compositions in different genres."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71020",
+    "category_id": "04",
+    "rating": "4.5",
+    "price": "249",
+    "total_student": 490,
+    "title": "Italian Spoken",
+    "author": {
+      "name": "Rasel",
+      "published_date": "2022-04-12",
+      "img": "https://i.ibb.co/B43dMnz/autor-11.jpg"
+    },
+    "image_url": "https://i.ibb.co/NpYqtQ8/italian-spoken.jpg",
+    "details": "This comprehensive Italian course will teach you all you need to know to become a natural Italian speaker. The course will cover the Italian Alphabet, Italian vocabulary for beginners, Italian speaking, Italian pronunciation, Italian writing, Italian grammatical rules and patterns, including Italian verbs and tenses, and Italian conversation and communication skills."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71021",
+    "category_id": "05",
+    "rating": "4.1",
+    "price": "149",
+    "total_student": 410,
+    "title": "German Spoken",
+    "author": {
+      "name": "Kabir",
+      "published_date": "2022-01-30",
+      "img": "https://i.ibb.co/PYL6Y0z/autor-13.jpg"
+    },
+    "image_url": "https://i.ibb.co/c2Wvvjf/garman-spoken.jpg",
+    "details": "The German Language is one of the ten most spoken dialects within the world. About 185 million people around the globe speak in the German language. One can still study in Germany, even if they don’t know the language accurately. But if you understand the language, it can make everyday life a lot easier and help you involve yourself in the country. Apart from that, foreign languages are also frequently inquired by companies. There are many ways to learn the German Language. Whether you learn the usual way by joining a category, or whether you team with a German tandem partner or flatmate, learning German is often great fun and hugely beneficial."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71022",
+    "category_id": "05",
+    "rating": "4.8",
+    "price": "199",
+    "total_student": 140,
+    "title": "German Listening",
+    "author": {
+      "name": "Robin",
+      "published_date": "2022-06-24",
+      "img": "https://i.ibb.co/CtS08rf/autor-14.jpg"
+    },
+    "image_url": "https://i.ibb.co/jrnTwFY/german-listening.jpg",
+    "details": "If you take care to consciously listen to your German audio, you’ll quickly start to pick up new German skills through osmosis, also known as “passive listening.” This is when you absorb new vocabulary and grammar concepts just by being exposed to the language. So even though it may not feel as strenuous as running through a set of vocabulary flashcards, it is just as important!"
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71023",
+    "category_id": "05",
+    "rating": "4.5",
+    "total_student": 150,
+    "price": "199",
+    "title": "German Writing",
+    "author": {
+      "name": "Jafor",
+      "published_date": "2022-08-19",
+      "img": "https://i.ibb.co/qyFNN72/autor-15.jpg"
+    },
+    "image_url": "https://i.ibb.co/QFm3pRV/german-writing.jpg",
+    "details": "In this German course you will write texts in German and can improve your written expression. You will be given writing tasks on different topics and you will have to write texts. These will be corrected by the teacher and he or she will give you tips to improve your writing in German. Basics such as typical errors in sentence structure, punctuation or capitalization will be corrected."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71024",
+    "category_id": "06",
+    "rating": "4.0",
+    "price": "149",
+    "total_student": 420,
+    "title": "Chinese Writing",
+    "author": {
+      "name": "Rakib",
+      "published_date": "2022-02-20",
+      "img": "https://i.ibb.co/SnPC7Xh/autor-16.jpg"
+    },
+    "image_url": "https://i.ibb.co/84Hg5Kg/china-writing.jpg",
+    "details": "This Chinese character course is intended for total beginners and consists of 5 sections. You’re going to learn 25 simplified Chinese characters and 40 related words, phrases, or sentences. Most importantly, this course will help you understand some of the basics of Chinese characters and strategies for learning them, which will make your further study much easier and more efficient."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71025",
+    "category_id": "06",
+    "rating": "4.8",
+    "price": "199",
+    "total_student": 140,
+    "title": "Chinese Spoken",
+    "author": {
+      "name": "Noman",
+      "published_date": "2022-02-20",
+      "img": "https://i.ibb.co/KwXkdRX/autor-17.jpg"
+    },
+    "image_url": "https://i.ibb.co/Fz4JG7D/china-speaking.jpg",
+    "details": "My spoken Chinese course includes 20 lessons, and each lesson has many authentic expressions. Most of these expressions can’t be learned from textbooks, but they are commonly used in our daily life. If you are a beginner of Chinese, you can learn authentic and practical expressions at the beginning of your journey. If you are an intermediate or an advanced student, you can also use them as supplementary materials to reinforce what you have learned. This course is offered in Chinese with English subtitles."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71026",
+    "category_id": "06",
+    "rating": "4.3",
+    "price": "299",
+    "total_student": 160,
+    "title": "Chinese Listening",
+    "author": {
+      "name": "Akram",
+      "published_date": "2022-05-11",
+      "img": "https://i.ibb.co/RjMRHLJ/autor-18.webp"
+    },
+    "image_url": "https://i.ibb.co/sq1DNT6/china-listening.jpg",
+    "details": "This course contains 30 lessons in total, each consisting of two parts—Listening Comprehension and Extensive Listening. Though the lessons are consistent in format, the listening materials progress from paragraphs to passages, showing an increase in difficulty. Besides, a great number of Chinese cultural elements are integrated in the materials so that students may learn more about Chinese culture while improving their listening comprehension skills. "
   }
 ]
