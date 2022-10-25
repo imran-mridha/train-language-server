@@ -2,13 +2,12 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
-    "rating": "4.5",
     "price": "149",
     "total_student": 488,
+    "lessons": "30",
     "title": "English Spoken",
-    "author": {
+    "instructor": {
       "name": "Jimmy Dane",
-      "published_date": "2022-08-24",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
     },
     "image_url": "https://i.ibb.co/8jpHrpj/english-speaking.jpg",
@@ -17,13 +16,12 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "01",
-    "rating": "4.8",
     "price": "199",
     "total_student": 200,
+    "lessons": "50",
     "title": "English Writing",
-    "author": {
+    "instructor": {
       "name": "John Doe",
-      "published_date": "2022-03-24",
       "img": "https://i.ibb.co/dBBqjX3/autor-01.jpg"
     },
     "image_url": "https://i.ibb.co/Wyvg8Pr/english-writing.png",
@@ -32,13 +30,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71011",
     "category_id": "01",
-    "rating": "4.2",
     "price": "249",
     "total_student": 170,
+    "lessons": "20",
     "title": "English Listening",
-    "author": {
+    "instructor": {
       "name": "Alison",
-      "published_date": "2022-05-24",
       "img": "https://i.ibb.co/SwWV1s1/autor-02.jpg"
     },
     "image_url": "https://i.ibb.co/LZsk3dq/english-lestening.jpg",
@@ -47,13 +44,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71012",
     "category_id": "02",
-    "rating": "4.4",
     "price": "299",
     "total_student": 245,
+    "lessons": "50",
     "title": "Spanish Listening",
-    "author": {
+    "instructor": {
       "name": "Karim",
-      "published_date": "2022-05-10",
       "img": "https://i.ibb.co/kGz3mtc/autor-03.webp"
     },
     "image_url": "https://i.ibb.co/MnNz0nD/spanish-listening.jpg",
@@ -62,13 +58,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71013",
     "category_id": "02",
-    "rating": "4.4",
     "price": "149",
     "total_student": 245,
+    "lessons": "25",
     "title": "Spanish Writing",
-    "author": {
+    "instructor": {
       "name": "Rahim",
-      "published_date": "2022-01-10",
       "img": "https://i.ibb.co/RCj9bDr/autor-04.webp"
     },
     "image_url": "https://i.ibb.co/DMpvPFJ/spanish-writing.jpg",
@@ -77,13 +72,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71014",
     "category_id": "02",
-    "rating": "4.4",
     "price": "199",
     "total_student": 245,
+    "lessons": "40",
     "title": "Spanish Spoken",
-    "author": {
+    "instructor": {
       "name": "Rahim",
-      "published_date": "2022-01-10",
       "img": "https://i.ibb.co/Z13sd1k/autor-05.jpg"
     },
     "image_url": "https://i.ibb.co/bPtKvr5/spanish-speaking.jpg",
@@ -92,13 +86,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71015",
     "category_id": "03",
-    "rating": "4.5",
     "price": "149",
     "total_student": 300,
+    "lessons": "60",
     "title": "French Spoken",
-    "author": {
+    "instructor": {
       "name": "Naeem",
-      "published_date": "2022-05-13",
       "img": "https://i.ibb.co/mSF9sJF/autor-06.jpg"
     },
     "image_url": "https://i.ibb.co/GPDfVPH/french-spoken.jpg",
@@ -107,13 +100,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71016",
     "category_id": "03",
-    "rating": "4.9",
     "price": "249",
     "total_student": 100,
+    "lessons": "80",
     "title": "French Writing",
-    "author": {
+    "instructor": {
       "name": "Dipto",
-      "published_date": "2022-02-13",
       "img": "https://i.ibb.co/MBrfw4v/autor-07.jpg"
     },
     "image_url": "https://i.ibb.co/t4Hv7Sh/french-writing.jpg",
@@ -122,13 +114,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71017",
     "category_id": "03",
-    "rating": "4.0",
     "price": "299",
     "total_student": 250,
+    "lessons": "30",
     "title": "French Listening",
-    "author": {
+    "instructor": {
       "name": "Salman",
-      "published_date": "2022-07-13",
       "img": "https://i.ibb.co/tQSLgsJ/autor-08.jpg"
     },
     "image_url": "https://i.ibb.co/ccVHjXk/french-listening.png",
@@ -137,13 +128,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71018",
     "category_id": "04",
-    "rating": "4.2",
     "price": "149",
     "total_student": 150,
+    "lessons": "50",
     "title": "Italian Listening",
-    "author": {
+    "instructor": {
       "name": "Kaium",
-      "published_date": "2022-01-21",
       "img": "https://i.ibb.co/3ccw5S2/autor-09.jpg"
     },
     "image_url": "https://i.ibb.co/KG5G256/italian-listening.jpg",
@@ -152,13 +142,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71019",
     "category_id": "04",
-    "rating": "4.5",
     "price": "299",
     "total_student": 170,
+    "lessons": "60",
     "title": "Italian Writing",
-    "author": {
+    "instructor": {
       "name": "Robiul",
-      "published_date": "2022-02-20",
       "img": "https://i.ibb.co/wJvs9nC/autor-10.jpg"
     },
     "image_url": "https://i.ibb.co/qBCJ4dc/italian-writing.jpg",
@@ -167,13 +156,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71020",
     "category_id": "04",
-    "rating": "4.5",
     "price": "249",
     "total_student": 490,
+    "lessons": "80",
     "title": "Italian Spoken",
-    "author": {
+    "instructor": {
       "name": "Rasel",
-      "published_date": "2022-04-12",
       "img": "https://i.ibb.co/B43dMnz/autor-11.jpg"
     },
     "image_url": "https://i.ibb.co/NpYqtQ8/italian-spoken.jpg",
@@ -182,13 +170,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71021",
     "category_id": "05",
-    "rating": "4.1",
     "price": "149",
     "total_student": 410,
+    "lessons": "20",
     "title": "German Spoken",
-    "author": {
+    "instructor": {
       "name": "Kabir",
-      "published_date": "2022-01-30",
       "img": "https://i.ibb.co/PYL6Y0z/autor-13.jpg"
     },
     "image_url": "https://i.ibb.co/c2Wvvjf/garman-spoken.jpg",
@@ -197,13 +184,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71022",
     "category_id": "05",
-    "rating": "4.8",
     "price": "199",
     "total_student": 140,
+    "lessons": "50",
     "title": "German Listening",
-    "author": {
+    "instructor": {
       "name": "Robin",
-      "published_date": "2022-06-24",
       "img": "https://i.ibb.co/CtS08rf/autor-14.jpg"
     },
     "image_url": "https://i.ibb.co/jrnTwFY/german-listening.jpg",
@@ -212,13 +198,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71023",
     "category_id": "05",
-    "rating": "4.5",
     "total_student": 150,
+    "lessons": "70",
     "price": "199",
     "title": "German Writing",
-    "author": {
+    "instructor": {
       "name": "Jafor",
-      "published_date": "2022-08-19",
       "img": "https://i.ibb.co/qyFNN72/autor-15.jpg"
     },
     "image_url": "https://i.ibb.co/QFm3pRV/german-writing.jpg",
@@ -227,13 +212,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71024",
     "category_id": "06",
-    "rating": "4.0",
     "price": "149",
     "total_student": 420,
+    "lessons": "60",
     "title": "Chinese Writing",
-    "author": {
+    "instructor": {
       "name": "Rakib",
-      "published_date": "2022-02-20",
       "img": "https://i.ibb.co/SnPC7Xh/autor-16.jpg"
     },
     "image_url": "https://i.ibb.co/84Hg5Kg/china-writing.jpg",
@@ -242,13 +226,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71025",
     "category_id": "06",
-    "rating": "4.8",
     "price": "199",
     "total_student": 140,
+    "lessons": "20",
     "title": "Chinese Spoken",
-    "author": {
+    "instructor": {
       "name": "Noman",
-      "published_date": "2022-02-20",
       "img": "https://i.ibb.co/KwXkdRX/autor-17.jpg"
     },
     "image_url": "https://i.ibb.co/Fz4JG7D/china-speaking.jpg",
@@ -257,13 +240,12 @@
   {
     "_id": "f69a695f037cd9484cecaea37ca71026",
     "category_id": "06",
-    "rating": "4.3",
     "price": "299",
     "total_student": 160,
+    "lessons": "30",
     "title": "Chinese Listening",
-    "author": {
+    "instructor": {
       "name": "Akram",
-      "published_date": "2022-05-11",
       "img": "https://i.ibb.co/RjMRHLJ/autor-18.webp"
     },
     "image_url": "https://i.ibb.co/sq1DNT6/china-listening.jpg",
