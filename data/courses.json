@@ -5,6 +5,8 @@
     "price": "149",
     "total_student": 488,
     "lessons": "30",
+    "duration": "two month",
+    "lecture": "10",
     "title": "English Spoken",
     "instructor": {
       "name": "Jimmy Dane",
@@ -19,6 +21,8 @@
     "price": "199",
     "total_student": 200,
     "lessons": "50",
+    "duration": "three month",
+    "lecture": "20",
     "title": "English Writing",
     "instructor": {
       "name": "John Doe",
@@ -33,6 +37,8 @@
     "price": "249",
     "total_student": 170,
     "lessons": "20",
+    "duration": "one month",
+    "lecture": "10",
     "title": "English Listening",
     "instructor": {
       "name": "Alison",
@@ -47,6 +53,8 @@
     "price": "299",
     "total_student": 245,
     "lessons": "50",
+    "duration": "two month",
+    "lecture": "30",
     "title": "Spanish Listening",
     "instructor": {
       "name": "Karim",
@@ -61,6 +69,8 @@
     "price": "149",
     "total_student": 245,
     "lessons": "25",
+    "duration": "four month",
+    "lecture": "30",
     "title": "Spanish Writing",
     "instructor": {
       "name": "Rahim",
@@ -75,6 +85,8 @@
     "price": "199",
     "total_student": 245,
     "lessons": "40",
+    "duration": "two month",
+    "lecture": "15",
     "title": "Spanish Spoken",
     "instructor": {
       "name": "Rahim",
@@ -89,6 +101,8 @@
     "price": "149",
     "total_student": 300,
     "lessons": "60",
+    "duration": "one month",
+    "lecture": "10",
     "title": "French Spoken",
     "instructor": {
       "name": "Naeem",
@@ -103,6 +117,8 @@
     "price": "249",
     "total_student": 100,
     "lessons": "80",
+    "duration": "two month",
+    "lecture": "15",
     "title": "French Writing",
     "instructor": {
       "name": "Dipto",
@@ -117,6 +133,8 @@
     "price": "299",
     "total_student": 250,
     "lessons": "30",
+    "duration": "three month",
+    "lecture": "20",
     "title": "French Listening",
     "instructor": {
       "name": "Salman",
@@ -131,6 +149,8 @@
     "price": "149",
     "total_student": 150,
     "lessons": "50",
+    "duration": "one month",
+    "lecture": "10",
     "title": "Italian Listening",
     "instructor": {
       "name": "Kaium",
@@ -145,6 +165,8 @@
     "price": "299",
     "total_student": 170,
     "lessons": "60",
+    "duration": "two month",
+    "lecture": "15",
     "title": "Italian Writing",
     "instructor": {
       "name": "Robiul",
@@ -159,6 +181,8 @@
     "price": "249",
     "total_student": 490,
     "lessons": "80",
+    "duration": "three month",
+    "lecture": "20",
     "title": "Italian Spoken",
     "instructor": {
       "name": "Rasel",
@@ -173,6 +197,8 @@
     "price": "149",
     "total_student": 410,
     "lessons": "20",
+    "duration": "two month",
+    "lecture": "10",
     "title": "German Spoken",
     "instructor": {
       "name": "Kabir",
@@ -187,6 +213,8 @@
     "price": "199",
     "total_student": 140,
     "lessons": "50",
+    "duration": "two month",
+    "lecture": "10",
     "title": "German Listening",
     "instructor": {
       "name": "Robin",
@@ -200,6 +228,8 @@
     "category_id": "05",
     "total_student": 150,
     "lessons": "70",
+    "duration": "one month",
+    "lecture": "10",
     "price": "199",
     "title": "German Writing",
     "instructor": {
@@ -215,6 +245,8 @@
     "price": "149",
     "total_student": 420,
     "lessons": "60",
+    "duration": "two month",
+    "lecture": "20",
     "title": "Chinese Writing",
     "instructor": {
       "name": "Rakib",
@@ -229,6 +261,8 @@
     "price": "199",
     "total_student": 140,
     "lessons": "20",
+    "duration": "three month",
+    "lecture": "30",
     "title": "Chinese Spoken",
     "instructor": {
       "name": "Noman",
@@ -243,6 +277,8 @@
     "price": "299",
     "total_student": 160,
     "lessons": "30",
+    "duration": "two month",
+    "lecture": "10",
     "title": "Chinese Listening",
     "instructor": {
       "name": "Akram",
